@@ -58,4 +58,6 @@ Create two ROS packages inside your `catkin_ws/src`: the `drive_bot` and the `ba
 * ROS supports many different types of sensors (more info. http://wiki.ros.org/Sensors#A2D_range_finders)
 * Fix RViz's Global status errorr by select `odom` in Global Options's Fix Frame.
 * Setting `GAZEBO_MODEL_PATH` to let GAZEBO know you white ball save path.
-* An algorithm for image process is important (img.step, img.data)
+* To analyze image, we have to check all color channels (R, G, B) as concept below
+![imagestepping](https://user-images.githubusercontent.com/53105229/130372218-1eb4b248-12a2-4a84-bd2e-dae58a60fa85.png)
+
