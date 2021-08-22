@@ -33,7 +33,7 @@ Create two ROS packages inside your `catkin_ws/src`: the `drive_bot` and the `ba
     │   │   ├── my_robot.gazebo
     │   │   ├── my_robot.xacro
     │   ├── world                      # world folder for world files
-    │   │   ├── <yourworld>.world
+    │   │   ├── myWorld.world
     │   ├── CMakeLists.txt             # compiler instructions
     │   ├── package.xml                # package info
     ├── ball_chaser                    # ball_chaser package                   
