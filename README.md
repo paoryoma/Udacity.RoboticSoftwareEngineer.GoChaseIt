@@ -3,7 +3,7 @@
 ![GoChaseIt](https://user-images.githubusercontent.com/53105229/130345694-cf0ff903-9a2f-44d2-8701-9fd9780c7b18.png)
 
 ## OBJECTIVE
-Create two ROS packages inside your `catkin_ws/src`: the `drive_bot` and the `ball_chaser`. It to chase white-colored balls
+Create two ROS packages inside your `catkin_ws/src`: the `drive_bot` and the `ball_chaser` to chase white-colored balls
 
 ## PROJECT STEP OF WROKS
 1. Complete learning Introduction to ROS, Package & Catkin Workspaces and Write ROS Node.
